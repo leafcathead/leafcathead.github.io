@@ -11425,6 +11425,13 @@ div.resume-header {
 
 };
 
+div.portfolio-header {
+  padding-left: 3rem;
+  padding-right: 1rem;
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+}
+
 section.resume-section {
   display: flex;
   align-items: center;
@@ -11451,3 +11458,8 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+/* .carousel {
+  max-width:640px;
+  max-height:360px;
+} */
